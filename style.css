@@ -1,0 +1,28 @@
+#display_names{
+    width: 30%;
+    background-color: aqua;
+    border: black 1px solid;
+    border-radius: 10px;
+}
+#show_names_vertical{
+    width: 30%;
+    background-color: rgb(245, 133, 211);
+    border: black 1px solid;
+    border-radius: 10px;
+}
+#search_display{
+    width: 30%;
+    background-color: rgb(250, 170, 170);
+    border: black 1px solid;
+    border-radius: 10px;
+}
+#display_sort{
+    width: 30%;
+    background-color: rgb(183, 238, 183);
+    border: black 1px solid;
+    border-radius: 10px;
+}
+body{
+    background-image: url("cake.jpg");
+    background-size: cover;
+}
